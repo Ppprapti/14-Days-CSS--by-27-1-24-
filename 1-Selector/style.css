@@ -1,0 +1,31 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:#3a5a40;
+}
+
+
+/* #article1,#article2,#article3{
+    color:aqua;
+    font-family: monospace;
+    font-style: italic;
+} */
+
+#article1 > h3{
+    color:aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#article2 > h3{
+    color:aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#article3 > h3{
+    color:aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.paragraph{
+    color: #7f4f24;
+    font-weight: 400;
+    font-style: oblique;
+}
