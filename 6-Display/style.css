@@ -31,6 +31,7 @@ a{
     border:2px solid black;
     background-color: #f08804;
     margin: 4px;
+    display: inline-block;
 
 }
 footer{
