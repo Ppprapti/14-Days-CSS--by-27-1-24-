@@ -1,0 +1,14 @@
+.container{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url("Images/global-warming.jpg");
+    background-size: cover;
+    color: blue;
+    text-align: center;
+    position:fixed;
+    right: 0px;
+    bottom: 20px;
+
+
+}
